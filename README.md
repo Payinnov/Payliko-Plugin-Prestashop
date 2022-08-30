@@ -21,10 +21,10 @@ Copyright (c) 2021-2022 PayInnov
 
 ## Requirements
 
-In order to setup Payliko plugin you need :
+In order to setup Payliko plugin:
 
-* [PrestaShop](https://www.prestashop.com/en) 1.7.x
-* A Payliko business account see https://payliko.com/
+* The [PrestaShop](https://www.prestashop.com/en) 1.7.x version is required
+* Create a business account and validate the registration process using this link https://payliko.com/
 
 # How to install Payliko payment plugin in PrestaShop
 
