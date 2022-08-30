@@ -43,7 +43,7 @@ When the installation is completed:
 
 ## API credentials
 
-To create a new Retailer'certificat, you should register a Business account on the PayLiko Dashboard, then go to the CMS page, and copy the uuid string.
+To create a new Retailer'certificat, you should sign in as a Business account in the PayLiko Dashboard, then go to the CMS page, and copy the uuid string.
 
 <p>
   <img
