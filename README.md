@@ -21,7 +21,7 @@ Copyright (c) 2021-2022 PayInnov
 
 ## Requirements
 
-This plugin requires the following:
+In order to setup Payliko plugin you need :
 
 * [PrestaShop](https://www.prestashop.com/en) 1.7.x
 * A Payliko business account see https://payliko.com/
