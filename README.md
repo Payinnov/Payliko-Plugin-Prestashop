@@ -28,12 +28,12 @@ In order to setup Payliko plugin:
 
 # How to install Payliko payment plugin in PrestaShop
 
- - Backup your database before installing plugins. Please make sure you create backups.
+ - Backup your database before installing the plugin. Please make sure you create backups.
  - Download the file payinnov_plugin.zip see Github release
  - Go to your PrestaShop admin panel **Modules** / **Module Manager**.
- - Click **Upload a module**, then click **Select file**, find the payinnov_plugin.zip file, select it and click **Open**.
+    - Click **Upload a module**, then click **Select file**, find the payinnov_plugin.zip file, select it and click **Open**.
 
-## How to use
+## How to configure the Payliko plugin
 
 When the installation is completed:
 
