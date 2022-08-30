@@ -33,7 +33,7 @@ In order to setup Payliko plugin:
  - Go to your PrestaShop admin panel **Modules** / **Module Manager**.
     - Click **Upload a module**, then click **Select file**, find the payinnov_plugin.zip file, select it and click **Open**.
 
-## How to configure the Payliko plugin
+## How to configure the plugin
 
 When the installation is completed:
 
@@ -43,7 +43,7 @@ When the installation is completed:
 
 ## API credentials
 
-To create a new Retailer'certificat, you should sign up as a Business account in the PayLiko Dashboard, then go to the CMS page, and copy the uuid string.
+To create a new Retailer' certificate, you should sign up as a Business account in the PayLiko Dashboard, then go to the CMS page, and copy the uuid string.
 
 <p>
   <img
@@ -56,4 +56,4 @@ To create a new Retailer'certificat, you should sign up as a Business account in
   />
 </p>
 
-Use that uuid string as a Retailer'certificat in the plugin configuration page.
+Use the uuid string as a Retailer'certificate in the plugin configuration page.
