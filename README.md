@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="logo" src="./assets/logo.svg" width="256" />
 </p>
-Copyright (c) 2021-2022 PayInnov
+Copyright (c) 2021-2023 PayInnov
 <br>
 <br>
 <p>
@@ -23,7 +23,7 @@ Copyright (c) 2021-2022 PayInnov
 
 In order to setup Payliko plugin:
 
-* The [PrestaShop](https://www.prestashop.com/en) 1.7.x version is required
+* The [PrestaShop](https://www.prestashop.com/en) 1.7.x or 8.0.x version is required
 * Create a business account and validate the registration process using this link https://payliko.com/
 
 # How to install Payliko payment plugin in PrestaShop
