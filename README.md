@@ -1,4 +1,4 @@
-# Payliko payment plugin for PrestaShop
+# Payinnov payment plugin for PrestaShop
 
 <p align="center">
   <img alt="logo" src="./assets/logo.svg" width="256" />
@@ -21,12 +21,12 @@ Copyright (c) 2021-2023 PayInnov
 
 ## Requirements
 
-In order to setup Payliko plugin:
+In order to setup Payinnov plugin:
 
 * The [PrestaShop](https://www.prestashop.com/en) 1.7.x or 8.0.x version is required
 * Create a business account and validate the registration process using this link https://payliko.com/
 
-# How to install Payliko payment plugin in PrestaShop
+# How to install Payinnov payment plugin in PrestaShop
 
  - Backup your database before installing the plugin. Please make sure you create backups.
  - Download the file payinnov_plugin.zip see Github release
@@ -39,11 +39,11 @@ When the installation is completed:
 
  - Enable the plugin.
  - Click **Configure**.
-   In the **Configure Settings** tab of the Payliko Module, you should enter your Retailer credentials and then click **Save**.
+   In the **Configure Settings** tab of the Payinnov Module, you should enter your Retailer credentials and then click **Save**.
 
 ## API credentials
 
-To create a new Retailer' certificate, you should sign up as a Business account in the PayLiko Dashboard, then go to the CMS page, and copy the uuid string.
+To create a new Retailer' certificate, you should sign up as a Business account in the Payinnov Dashboard, then go to the CMS page, and copy the uuid string.
 
 <p>
   <img
